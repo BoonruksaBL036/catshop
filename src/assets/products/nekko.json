@@ -1,0 +1,25 @@
+{
+  "nekko": [
+    {
+      "id": 1,
+      "image": "nekkoblue.png",
+      "name": "Neeko",
+      "description": "อาหารเปียกแมวแบบซอง 70 กรัม",
+      "price": 126
+    },
+    {
+      "id": 2,
+      "image": "nekkopink.png",
+      "name": "Neeko",
+      "description": "อาหารเปียกแมวแบบซอง 70 กรัม",
+      "price": 126
+    },
+    {
+      "id": 3,
+      "image": "nekkokitten.png",
+      "name": "Neeko",
+      "description": "อาหารเปียกแมวแบบซอง 70 กรัม",
+      "price": 326
+    }
+  ]
+}
